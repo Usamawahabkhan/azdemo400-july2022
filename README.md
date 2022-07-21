@@ -1,2 +1,2 @@
-# azdemo400-july2022
-demo for course
+# Azure Function session for Dubai Live code examples -july2022
+
